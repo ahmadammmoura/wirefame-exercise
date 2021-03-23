@@ -1,0 +1,99 @@
+body {
+    margin: auto;
+    width: 1200px;
+    height: 0 auto;
+    background-color: white;
+    min-height: 1500px;
+    position: relative;
+    margin-bottom: 90px;
+}
+
+header {
+    background-color: rgb(73, 72, 72);
+    margin-top: 2%;
+    width: 100% 100%;
+    height: 100px;
+    margin-bottom: 30px;
+}
+
+header img {
+    margin-top: 30px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 90px;
+}
+
+nav {
+    margin-bottom: 50px;
+    display: block;
+    line-height: 50px;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    margin-right: 100px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    color: gray;
+}
+
+div img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div {
+    margin-bottom: 30px;
+}
+
+span {
+    display: block;
+    margin-left: 100px;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+span img {
+    margin: 15px;
+}
+
+section img {
+    margin-left: 100px;
+}
+
+section {
+    margin-bottom: 30px;
+    display: flex;
+}
+
+aside {
+    float: right;
+    padding-left: 4px;
+    margin-right: 100px;
+    width: 480px;
+    height: 400px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    text-align: justify;
+}
+
+button {
+    float: right;
+    margin-right: 490px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+footer {
+    background-color: rgb(73, 72, 72);
+    margin-top: 2%;
+    width: 100% 100%;
+    height: 100px;
+    margin-bottom: 30px;
+}
